@@ -1,5 +1,6 @@
-Classification on Imbalanced Data: Insurance Claims
-Introduction
+** Classification on Imbalanced Data: Insurance Claims
+
+** Introduction:
 In the field of machine learning and data science, dealing with imbalanced data is a common yet critical challenge. Imbalanced data occurs when the classes within a dataset are not represented equally. This is particularly problematic in classification tasks, where the minority class (the class with fewer instances) can be overshadowed by the majority class, leading to biased predictions. In this project, we address the issue of imbalanced data using a dataset of insurance claims.
 
 Project Overview
